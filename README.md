@@ -27,7 +27,6 @@ git clone https://github.com/Karem8787/KING-bot-MD
 ```
 
 ```bash
-```bash
 unzip cd /sdcard/KING.zip
 ```
 
