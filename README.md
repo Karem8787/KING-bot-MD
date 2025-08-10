@@ -12,17 +12,23 @@ ___
 ## 🔥 كيف تشغلو ترمكس
 
 > **اتبع الخطوات التالية بالترتيب:**
-
-```bash
-termux-setup-storage
+ ```bash
+shermux-setup-ststorage
 ```
-
 ```bash
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick
 ```
 
+```Karem
+cd /sdcard/
+```
 ```bash
-مسار البوت
+git clone https://github.com/Karem8787/KING-bot-MD
+```
+
+```bash
+```bash
+unzip cd /sdcard/KING.zip
 ```
 
 ```bash
@@ -31,8 +37,6 @@ cd /sdcard/KING
 
 ```bash
 npm install
-ده لو مجلد node_modules
-مش موجود تعملو
 ```
 
 ```bash
