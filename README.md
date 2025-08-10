@@ -29,9 +29,11 @@ git clone https://github.com/Karem8787/KING-bot-MD
 ```bash
 unzip cd /sdcard/KING.zip
 ```
-
 ```bash
-cd /sdcard/KING
+unzip cd /sdcard/KING-bot-MD/KING.zip
+```
+```bash
+cd /sdcard/KING-bot-MD/KING
 ```
 
 ```bash
